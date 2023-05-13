@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://g0su12.github.io/portfolio/" target="_blank" rel="noreferrer"><img src="https://i.seadn.io/gae/JC_eBlvdIXyHohoK7Rn3UNu_0xE3XV4rpxOvxNothBHMSA0ynOBCWAyLhMtXZDRUM6QGapAdTtNIzf1FVRt1flhITSroHbkO-qpWZg?auto=format&w=1000" alt="my banner"></a>
+  <a href="https://g0su12.github.io/portfolio/" target="_blank" rel="noreferrer"><img width="450" src="https://i.seadn.io/gae/JC_eBlvdIXyHohoK7Rn3UNu_0xE3XV4rpxOvxNothBHMSA0ynOBCWAyLhMtXZDRUM6QGapAdTtNIzf1FVRt1flhITSroHbkO-qpWZg?auto=format&w=1000" alt="my banner"></a>
 </p>
 
 <h3 align="center">
