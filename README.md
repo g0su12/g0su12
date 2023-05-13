@@ -15,7 +15,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/g0su12/"><img align="left" src="https://raw.githubusercontent.com/g0su12/g0su12/main/images/linkedin.svg" alt="g0su | LinkedIn" width="21px"/></a>
-<a href="https://www.facebook.com/g0su12/"><img align="left" src="https://raw.githubusercontent.com/g0su12/g0su12/main/images/facebook.svg" alt="g0su | Facebook" width="21px"/></a>
+<a href="https://www.facebook.com/g0su12/"><img align="left" src="https://raw.githubusercontent.com/g0su12/g0su12/main/images/facebook.png" alt="g0su | Facebook" width="21px"/></a>
 <a href="https://instagram.com/ngquag.huy"><img align="left" src="https://raw.githubusercontent.com/g0su12/g0su12/main/images/instagram.svg" alt="g0su | Instagram" width="21px"/></a>
 <a href="https://g0su12.medium.com/"><img align="left" src="https://raw.githubusercontent.com/g0su12/g0su12/main/images/medium.svg" alt="g0su12 | Medium" width="21px"/></a>
 </br>
