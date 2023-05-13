@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://g0su12.github.io/portfolio/" target="_blank" rel="noreferrer"><img width="350" src="https://steamuserimages-a.akamaihd.net/ugc/910157344781842278/F706E5AD57E5D62D9679D3B54AB4DD886E8A20A2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="my banner"></a>
+  <a href="https://g0su12.github.io/portfolio/" target="_blank" rel="noreferrer"><img width="250" src="https://codingcat.codes/wp-content/uploads/2017/08/l1-1.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
