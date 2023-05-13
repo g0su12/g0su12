@@ -18,11 +18,11 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://instagram.com/ngquag.huy"><img align="left" src="https://raw.githubusercontent.com/g0su12/g0su12/main/images/instagram.svg" alt="g0su | Instagram" width="21px"/></a>
 <a href="https://g0su12.medium.com/"><img align="left" src="https://raw.githubusercontent.com/g0su12/g0su12/main/images/medium.svg" alt="g0su12 | Medium" width="21px"/></a>
 </br>
-[![wakatime](https://wakatime.com/badge/user/774aefd6-6847-4b01-b7b3-2483483c9180.svg)](https://wakatime.com/@774aefd6-6847-4b01-b7b3-2483483c9180)
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🌱 I'm currently learning
-
+[![wakatime](https://wakatime.com/badge/user/774aefd6-6847-4b01-b7b3-2483483c9180.svg)](https://wakatime.com/@774aefd6-6847-4b01-b7b3-2483483c9180)
 ## 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
